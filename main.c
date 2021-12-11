@@ -8,7 +8,6 @@ int main(void) {
   return 0;
 }
 
-
 char *sort(char input_sentence[]){
   int length = strlen(input_sentence); 
   char temp;
